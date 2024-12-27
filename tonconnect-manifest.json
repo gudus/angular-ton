@@ -1,5 +1,5 @@
 {
-  "url": "https://127.0.0.1:4200", // required
+  "url": "https://gudus.github.io/angular-ton", // required
   "name": "app-ton", // required
-  "iconUrl": "https://127.0.0.1:4200/assets/logo.png" // required
+  "iconUrl": "https://gudus.github.io/angular-ton/ton.png" // required
 }
