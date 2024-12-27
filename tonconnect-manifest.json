@@ -1,5 +1,5 @@
 {
-  "url": "https://gudus.github.io/angular-ton", // required
-  "name": "app-ton", // required
-  "iconUrl": "https://gudus.github.io/angular-ton/ton.png" // required
+  "url": "https://gudus.github.io/angular-ton",
+  "name": "app-ton",
+  "iconUrl": "https://gudus.github.io/angular-ton/ton.png"
 }
